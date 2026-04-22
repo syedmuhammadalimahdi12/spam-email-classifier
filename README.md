@@ -91,9 +91,6 @@ SpamProject/
 │
 ├── Arch_Technology_Internship_ML_Project_1stTask.ipynb
 ├── arch_technology_internship_ml_project_1sttask.py
-├── SpamProjectsaveModel/
-│     └── model.pkl
-│     └── vectorizer.pkl
 ├── requirements.txt
 ```
 
